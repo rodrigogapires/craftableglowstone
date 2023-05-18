@@ -1,0 +1,30 @@
+{
+"type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "GRG",
+        "RGR",
+        "GRG"
+    ],
+    
+    "key":
+    {
+        "G":
+        {
+            "item": "minecraft:gold_nugget"
+        },
+        
+        "R":
+        {
+            "item": "minecraft:redstone"
+        }
+        
+    },
+    
+    "result":
+    {
+        "item": "minecraft:glowstone_dust",
+        "count": 4
+    }
+}
